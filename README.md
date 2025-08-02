@@ -1,4 +1,4 @@
-CPO and co-founder at [askEarth](https://ask.earth). Creating a geo-spatial intelligence agent (called GIA). 
+CPO and co-founder at [askEarth](https://ask.earth). Creating the first AI-native Geo-spatial Intelligence Agent (GIA).
 
 ---
 
@@ -7,5 +7,3 @@ Worked previously at [Kitware Europe](https://www.kitware.eu/) for: [VTK](https:
 Languages/frameworks: #Pyhton, #LangChain, #JavaScript/#TypeScript, #NextJS, #React, #Vue, #Nuxt, #Svelte, #CSharp, #Unity, #Golang.
 
 Previous experiences with #IFC and #BIM.
-
-
